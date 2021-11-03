@@ -2,7 +2,7 @@
 
 Heuristic tool to remove hyphens from hyphenated Finnish text
 
-# Quickstart
+## Quickstart
 
 Dehyphenate a small set of example paragraphs from Finnish Wikipedia:
 
